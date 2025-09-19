@@ -32,7 +32,7 @@ Each **C Project** represents a set of problems designed to push logical thinkin
 ## 📂 Repository Structure
 
 
-
+```
 1337\_POOL/
 ├── C00/    # Basics: Printing & first programs
 ├── C01/    # Memory & simple logic
@@ -49,7 +49,7 @@ Each **C Project** represents a set of problems designed to push logical thinkin
 ├── C12/    # Linked lists
 ├── C13/    # Advanced data structures
 └── README.md
-
+```
 
 
 
