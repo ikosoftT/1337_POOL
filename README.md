@@ -1,6 +1,4 @@
 
-
-```markdown
 #  1337_POOL – My Journey Through the 42/1337 Piscine
 
 > **A full 30 days of Problem Solving, Debugging, and Crafting the Digital World.**  
@@ -52,7 +50,6 @@ Each **C Project** represents a set of problems designed to push logical thinkin
 ├── C13/    # Advanced data structures
 └── README.md
 
-```
 
 ---
 
@@ -83,7 +80,6 @@ Next stop: Becoming a **full 1337 student** and pushing even further 🚀
 ---
 
 > ⭐ If you’re also starting your 1337/42 journey, **good luck and never give up!**  
-> _“Piscine is not just about code, it’s about mindset.”_
-```
+> _“Piscine is not just about code, it’s about mindset.”
 
 
