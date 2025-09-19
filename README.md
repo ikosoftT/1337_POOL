@@ -31,7 +31,7 @@ Each **C Project** represents a set of problems designed to push logical thinkin
 
 ## 📂 Repository Structure
 
-```
+
 
 1337\_POOL/
 ├── C00/    # Basics: Printing & first programs
@@ -51,7 +51,7 @@ Each **C Project** represents a set of problems designed to push logical thinkin
 └── README.md
 
 
----
+
 
 ## 🎯 Key Takeaways
 
