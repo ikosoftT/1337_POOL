@@ -2,7 +2,6 @@
 | | | |) || |) || | | | | |) | | ___ \
 | | | / | _ < | |_ | | | / ) |) |
 |||| || _\ _| || || |/___/
-
    1337_POOL – My Journey Through the 42/1337 Piscine
 
 
@@ -11,7 +10,7 @@
 > **30 days of problem solving, debugging, and building real foundations in C.**  
 > From **C00 → C13**, this repository reflects my growth, daily challenges, and solutions during the **1337 Khouribga Piscine**.
 
----
+
 
 ## About This Repository
 
@@ -22,7 +21,7 @@ It contains all my projects and solutions from the Piscine (Pool)—an intensive
 **Author**: Yassine (*aka* [Ikosoft](https://www.youtube.com/@IkoSoftCompany))  
 **Content Creator**: I also share coding insights & Piscine tips on YouTube → [IkoSoftCompany](https://www.youtube.com/@IkoSoftCompany)
 
----
+
 
 ## Piscine Timeline
 
@@ -34,13 +33,10 @@ Each **C project** introduces a new layer of programming concepts, gradually bui
 - **C08 – C09** → Structs, headers, modular programs  
 - **C10 – C11** → File handling, libraries, reusable components  
 - **C12 – C13** → Linked lists, data structures, final challenges  
-
 ---
 
 ## Repository Structure
-
-
-
+```
 1337_POOL/
 ├── C00/ # Basics: Printing & first programs
 ├── C01/ # Memory & logic fundamentals
@@ -58,8 +54,8 @@ Each **C project** introduces a new layer of programming concepts, gradually bui
 ├── C13/ # Advanced data structures
 └── README.md
 
+```
 
----
 
 ## Key Takeaways
 
@@ -90,6 +86,6 @@ This repository is more than just code—it is a story of persistence:
 - LinkedIn → *coming soon…*  
 
 ---
-
+### 5dam 3la rask a batalll goo
 > If you are starting your 1337/42 journey: keep going, do not quit, and trust the process.  
 > *“Piscine is not just about code—it is about mindset.”*
