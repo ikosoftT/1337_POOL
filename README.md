@@ -1,9 +1,5 @@
-|_ || _ \ | _ \ / | | | _ | / __|
-| | | |) || |) || | | | | |) | | ___ \
-| | | / | _ < | |_ | | | / ) |) |
-|||| || _\ _| || || |/___/
-   1337_POOL – My Journey Through the 42/1337 Piscine
 
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4m5fMRB5FaQYAqbBGjOXQgr8n-elhHG1SGQ&s"></img>
 
 # 1337_POOL – My Journey Through the 42/1337 Piscine
 
